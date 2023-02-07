@@ -113,7 +113,7 @@
     "dom-to-image": "^2.6.0",
     "emotion-rgba": "0.0.9",
     "fontsource-fira-code": "^3.0.5",
-    "fontsource-inter": "^3.0.5",
+    "fontsource-inter": "^4.0.0",
     "fuse.js": "^6.4.6",
     "geolib": "^2.0.24",
     "global-box": "^1.2.0",

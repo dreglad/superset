@@ -78,7 +78,7 @@
     "@superset-ui/legacy-plugin-chart-heatmap": "^0.18.8",
     "@superset-ui/legacy-plugin-chart-histogram": "^0.18.8",
     "@superset-ui/legacy-plugin-chart-horizon": "^0.18.8",
-    "@superset-ui/legacy-plugin-chart-map-box": "^0.18.8",
+    "@superset-ui/legacy-plugin-chart-map-box": "^1.5.0",
     "@superset-ui/legacy-plugin-chart-paired-t-test": "^0.18.8",
     "@superset-ui/legacy-plugin-chart-parallel-coordinates": "^0.18.8",
     "@superset-ui/legacy-plugin-chart-partition": "^0.18.8",
